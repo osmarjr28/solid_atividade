@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93baa41d-71bf-430f-82d2-72851a3bff80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_01_solid.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio01/Fatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio01/ImpFatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio01/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercico02/Fatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercico02/ImpFatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercico02/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercico02/PersistenciaArquivoPdf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercico02/PersistenciaDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercico02/PersistenciaFatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercico02/TestaLi.java" afterDir="false" />
-    </list>
+    <list default="true" id="93baa41d-71bf-430f-82d2-72851a3bff80" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/oscardoso/Desktop/SOLID",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670440814519</updated>
       <workItem from="1670440816248" duration="3302000" />
+      <workItem from="1670548504777" duration="55000" />
     </task>
     <servers />
   </component>
